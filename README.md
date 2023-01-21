@@ -1,2 +1,3 @@
 # prueba-github-2
-Descripción...
+
+Descripción extendida
